@@ -13,6 +13,6 @@
 ![Unreal%20Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128.svg?&style=for-the-badge&logo=Unreal%20Engine&logoColor=White)
 
 # :mailbox_with_mail: Contacts
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://iiii4.tistory.com/)](https:/https://iiii4.tistory.com//)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://iiii4.tistory.com/)](https:/https://iiii4.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/sie08357@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sie08357@gmail.com)](mailto:sie08357@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/sie08357@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:sie08357@naver.com)](mailto:sie08357@naver.com)
