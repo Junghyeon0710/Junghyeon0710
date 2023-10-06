@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20Junghyeon0710%20GitHub!%20&fontSize=50)
+## 💻 Welcome 💻
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junghyeon0710&show_icons=true&theme=radical)
 <!--
