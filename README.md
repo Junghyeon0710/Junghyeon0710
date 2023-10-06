@@ -3,7 +3,15 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junghyeon0710&show_icons=true&theme=radical)
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sie08357)](https://solved.ac/sie08357)
 
-## 💻 Skill 💻
-<a href="" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+## 💪 Skill
+### Platforms & Languages
+![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=White)
+![Blueprint](https://img.shields.io/badge/Blueprint-137CBD.svg?&style=for-the-badge&logo=Blueprint&logoColor=White)
+### Tools
+![Unreal%20Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128.svg?&style=for-the-badge&logo=Unreal%20Engine&logoColor=White)
+
+# :mailbox_with_mail: Contacts
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sie08357@gmail.com)](mailto:sie08357@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:sie08357@naver.com)](mailto:sie08357@naver.com)
