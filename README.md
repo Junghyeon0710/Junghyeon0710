@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20Junghyeon0710%20GitHub!%20&fontSize=50)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junghyeon0710)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junghyeon0710&show_icons=true&theme=radical)
 <!--
 **Junghyeon0710/Junghyeon0710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
