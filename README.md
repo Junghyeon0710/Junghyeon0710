@@ -1,5 +1,5 @@
 
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20Junghyeon0710%20GitHub!%20&fontSize=50)
 
 <!--
 **Junghyeon0710/Junghyeon0710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20Junghyeon0710%20GitHub!&fontSize=50)
+
