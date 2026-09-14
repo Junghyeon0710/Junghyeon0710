@@ -37,8 +37,6 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Junghyeon0710&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&rank_icon=github&bg_color=0A0E17&text_color=8496AE&icon_color=4CC2FF&title_color=E9F0FA&ring_color=4CC2FF" width="48%" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junghyeon0710&layout=compact&langs_count=6&hide_border=true&hide_title=true&bg_color=0A0E17&text_color=8496AE&title_color=E9F0FA" width="48%" alt="Top languages" />
 
 <br/>
 <br/>
