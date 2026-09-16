@@ -1,46 +1,90 @@
-<img src="./assets/banner.svg" width="100%" alt="Junghyeon Ahn — 언리얼 클라이언트 개발자" />
+<div align="center">
+
+# Junghyeon
+
+**Unreal Engine Client Programmer**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=460&lines=Unreal+Engine+%C2%B7+C%2B%2B;Gameplay+%C2%B7+Multiplayer;Tools+%C2%B7+Automation" />
 
 <br/>
 
-언리얼 클라이언트 개발자입니다.
+<img src="https://img.shields.io/badge/Unreal_Engine-0D0D0D?style=flat-square&logo=unrealengine&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-111111?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-181818?style=flat-square&logo=python&logoColor=white"/>
 
-<br/>
+<br/><br/>
 
-## 만든 것들
+<a href="https://iiii4.tistory.com/">
+<img src="https://img.shields.io/badge/BLOG-111111?style=for-the-badge&logo=tistory&logoColor=white"/>
+</a>
+<a href="https://www.fab.com/listings/7f0a07da-7893-4902-82b2-491c4a1f0fc8">
+<img src="https://img.shields.io/badge/FAB-111111?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+</a>
 
-<a href="https://github.com/Junghyeon0710/SmartEditorTools"><img src="./assets/cards/SmartEditorTools.svg" width="48%" alt="SmartEditorTools" /></a>
-<a href="https://github.com/Junghyeon0710/DynamicWeather"><img src="./assets/cards/DynamicWeather.svg" width="48%" alt="DynamicWeather" /></a>
-<a href="https://github.com/Junghyeon0710/FarmingFramework"><img src="./assets/cards/FarmingFramework.svg" width="48%" alt="FarmingFramework" /></a>
-<a href="https://github.com/Junghyeon0710/JH_Overwatch"><img src="./assets/cards/JH_Overwatch.svg" width="48%" alt="JH_Overwatch" /></a>
-<a href="https://github.com/Junghyeon0710/JH_Cropout"><img src="./assets/cards/JH_Cropout.svg" width="48%" alt="JH_Cropout" /></a>
-<a href="https://github.com/Junghyeon0710/RPG"><img src="./assets/cards/RPG.svg" width="48%" alt="RPG" /></a>
-
-<sub>나머지는 [저장소 목록](https://github.com/Junghyeon0710?tab=repositories)에 있습니다.</sub>
-
-<br/>
-
-## Fab
-
-에디터 툴과 플러그인은 [Fab](https://www.fab.com/sellers/SELLER_NAME)에 올리고 있습니다.
-
-<br/>
-
-## 쓰는 것들
-
-|  |  |
-|:--|:--|
-| **Language** | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Engine** | ![Unreal Engine 5](https://img.shields.io/badge/Unreal%20Engine%205-0E1128?style=flat-square&logo=unrealengine&logoColor=white) ![Blueprint](https://img.shields.io/badge/Blueprint-137CBD?style=flat-square) ![Slate / UMG](https://img.shields.io/badge/Slate%20%2F%20UMG-1F3A5F?style=flat-square) ![GAS](https://img.shields.io/badge/Gameplay%20Ability%20System-1F3A5F?style=flat-square) |
-| **Game AI** | ![Behavior Tree](https://img.shields.io/badge/Behavior%20Tree-2B3A55?style=flat-square) ![StateTree](https://img.shields.io/badge/StateTree-2B3A55?style=flat-square) ![EQS](https://img.shields.io/badge/EQS-2B3A55?style=flat-square) ![AI Perception](https://img.shields.io/badge/AI%20Perception-2B3A55?style=flat-square) ![NavMesh](https://img.shields.io/badge/NavMesh-2B3A55?style=flat-square) |
-| **AI 도구** | ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-181717?style=flat-square&logo=githubcopilot&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-1A1A1A?style=flat-square&logo=cursor&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white) |
-| **Tool** | ![Rider](https://img.shields.io/badge/Rider-000000?style=flat-square&logo=rider&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white) ![Perforce](https://img.shields.io/badge/Perforce-404040?style=flat-square&logo=perforce&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-
-<br/>
-
-
-<br/>
-<br/>
+</div>
 
 ---
 
-[블로그](https://iiii4.tistory.com) · [Fab](https://www.fab.com/sellers/SELLER_NAME) · [sie08357@gmail.com](mailto:sie08357@gmail.com)
+## Projects
+
+### [CargoPush](https://github.com/Junghyeon0710/CargoPush)
+종합 포트폴리오
+
+`GAS` `Dedicated Server` `EOS` `Replication`
+
+### [FarmingFramework](https://github.com/Junghyeon0710/FarmingFramework)
+Lyra 기반 농사 프레임워크
+
+`Lyra` `Fragment` `Item Component`
+
+### [DynamicWeather](https://github.com/Junghyeon0710/DynamicWeather)
+날씨 시스템 플러그인
+
+### [CommonFront](https://github.com/Junghyeon0710/CommonFront)
+Common UI 기반 플러그인
+
+### [SmartEditorTools](https://github.com/Junghyeon0710/SmartEditorTools)
+Slate 기반 에디터 툴 모음
+
+---
+
+## AI / MCP
+
+### [Codex](https://github.com/Junghyeon0710/Codex)
+Unreal Engine 5.8 MCP + Codex 테스트
+
+### [Claude](https://github.com/Junghyeon0710/Claude)
+Unreal Engine 5.8 MCP + Claude 테스트
+
+### [CodexGame](https://github.com/Junghyeon0710/CodexGame)
+Codex로 게임 제작 테스트
+
+### [ClaudeGame](https://github.com/Junghyeon0710/ClaudeGame)
+Claude로 게임 제작 테스트
+
+---
+
+## Study
+
+### [UnrealEngineLab](https://github.com/Junghyeon0710/UnrealEngineLab)
+Unreal Engine 공부 및 테스트 정리
+
+---
+
+## Fab
+
+### AI Widget Inspector
+
+직접 제작한 Unreal Engine 플러그인
+
+[![View on Fab](https://img.shields.io/badge/View_on_Fab-111111?style=flat-square&logo=unrealengine&logoColor=white)](https://www.fab.com/listings/7f0a07da-7893-4902-82b2-491c4a1f0fc8)
+
+---
+
+## Blog
+
+[**iiii4.tistory.com**](https://iiii4.tistory.com/)
+
+Unreal Engine / C++ 개발 기록
+
+</div>
