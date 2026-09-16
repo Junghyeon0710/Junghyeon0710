@@ -75,7 +75,9 @@ Unreal Engine 공부 및 테스트 정리
 
 ### AI Widget Inspector
 
-직접 제작한 Unreal Engine 플러그인
+실행 중인 UI를 클릭해 원본 Widget Blueprint와 C++ 위치를 추적하고, Claude / Codex와 연동해 바로 수정할 수 있는 Unreal Engine 플러그인
+
+
 
 [![View on Fab](https://img.shields.io/badge/View_on_Fab-111111?style=flat-square&logo=unrealengine&logoColor=white)](https://www.fab.com/listings/7f0a07da-7893-4902-82b2-491c4a1f0fc8)
 
