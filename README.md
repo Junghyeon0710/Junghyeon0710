@@ -67,7 +67,7 @@ Claude를 활용한 게임 제작 테스트
 
 ### [UnrealEngineLab](https://github.com/Junghyeon0710/UnrealEngineLab)
 
-Unreal Engine을 공부하며 테스트한 내용을 정리합니다.
+Unreal Engine을 공부하며 객체지향 설계, SOLID 원칙, 아키텍처 등 소프트웨어 설계 개념과 Unreal Engine의 다양한 기능을 직접 테스트한 내용을 정리합니다.
 
 `C++` · `Engine` · `Optimization` · `Experiments`
 
