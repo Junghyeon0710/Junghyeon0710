@@ -49,17 +49,17 @@ UI를 직접 선택해 원본 위젯을 추적하고 AI로 수정까지 연결�
 
 Unreal Engine 5.8에서 MCP와 AI Coding Agent를 테스트하고 있습니다.
 
-**[Codex](https://github.com/Junghyeon0710/Codex)**  
-UE 5.8 MCP + Codex
-
 **[Claude](https://github.com/Junghyeon0710/Claude)**  
 UE 5.8 MCP + Claude
 
-**[CodexGame](https://github.com/Junghyeon0710/CodexGame)**  
-Codex를 활용한 게임 제작 테스트
+**[Codex](https://github.com/Junghyeon0710/Codex)**  
+UE 5.8 MCP + Codex
 
 **[ClaudeGame](https://github.com/Junghyeon0710/ClaudeGame)**  
-Claude를 활용한 게임 제작 테스트
+Claude를 활용한 GAS기반 게임 제작 테스트
+
+**[CodexGame](https://github.com/Junghyeon0710/CodexGame)**  
+Codex를 활용한 GAS기반 게임 제작 테스트
 
 ---
 
