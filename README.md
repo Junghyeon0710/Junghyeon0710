@@ -17,6 +17,9 @@
 <a href="https://iiii4.tistory.com/">
 <img src="https://img.shields.io/badge/BLOG-111111?style=for-the-badge&logo=tistory&logoColor=white"/>
 </a>
+<a href="https://blog.naver.com/chageunit">
+<img src="https://img.shields.io/badge/NAVER_BLOG-111111?style=for-the-badge&logo=naver&logoColor=white"/>
+</a>
 <a href="https://www.fab.com/listings/7f0a07da-7893-4902-82b2-491c4a1f0fc8">
 <img src="https://img.shields.io/badge/FAB-111111?style=for-the-badge&logo=unrealengine&logoColor=white"/>
 </a>
