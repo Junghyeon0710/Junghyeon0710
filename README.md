@@ -93,7 +93,7 @@ Unreal Engine을 공부하며 객체지향 설계, SOLID 원칙, 아키텍처 �
 
 ### [FarmingFramework](https://github.com/Junghyeon0710/FarmingFramework)
 
-Lyra 기반 Farming Framework
+Lyra 기반 Farming Framework Plugin
 
 `Lyra` · `Fragment` · `Item Component`
 
@@ -101,7 +101,7 @@ Lyra 기반 Farming Framework
 
 ### [SmartEditorTools](https://github.com/Junghyeon0710/SmartEditorTools)
 
-Slate 기반 Unreal Editor Tool 모음
+Slate 기반 Unreal Editor Tool 모음 Plugin
 
 <br/>
 
